@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Boom Boom Boom",
+  "base_artist": "Dannie May",
+  "createdAt": "2026-03-29T05:08:14.453850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boom, Boom, Boom, Boom!!",
+      "artist": "Vengaboys",
+      "has_synced": true,
+      "path": "select/01_Boom,_Boom,_Boom,_Boom!!_Vengaboys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boom Boom Boom",
+      "artist": "Infectious Grooves",
+      "has_synced": true,
+      "path": "select/02_Boom_Boom_Boom_Infectious_Grooves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boom-Boom-Boom",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/03_Boom-Boom-Boom_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boom Boom Boom - DJ Ammo/Poet Named Life Megamix",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/04_Boom_Boom_Boom_-_DJ_Ammo_Poet_Named_Life_Megamix_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boom Boom Boom (DJ Ammo\u0000Poet Named Life megamix)",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/05_Boom_Boom_Boom_(DJ_Ammo\u0000Poet_Named_Life_megamix)_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boom, Boom, Boom, Boom!!",
+      "artist": "Vengaboys",
+      "has_synced": true,
+      "path": "select/06_Boom,_Boom,_Boom,_Boom!!_Vengaboys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boom, Boom, Boom, Boom!! (Brooklyn Bounce Boombastic Remix)",
+      "artist": "Vengaboys",
+      "has_synced": false,
+      "path": "select/07_Boom,_Boom,_Boom,_Boom!!_(Brooklyn_Bounce_Boombastic_Remix)_Vengaboys.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boom Boom Boom - Gabry Ponte Edit",
+      "artist": "Indaqo",
+      "has_synced": false,
+      "path": "select/08_Boom_Boom_Boom_-_Gabry_Ponte_Edit_Indaqo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boom Boom Boom (Gabry Ponte Edit)",
+      "artist": "Indaqo",
+      "has_synced": false,
+      "path": "select/09_Boom_Boom_Boom_(Gabry_Ponte_Edit)_Indaqo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boom, Boom, Boom, Boom",
+      "artist": "Vengaboys",
+      "has_synced": false,
+      "path": "select/10_Boom,_Boom,_Boom,_Boom_Vengaboys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boom Boom Boom",
+      "artist": "The Outhere Brothers",
+      "has_synced": false,
+      "path": "select/11_Boom_Boom_Boom_The_Outhere_Brothers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boom Boom Boom",
+      "artist": "Juster",
+      "has_synced": false,
+      "path": "select/12_Boom_Boom_Boom_Juster.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boom Boom Boom",
+      "artist": "Rare Blend",
+      "has_synced": true,
+      "path": "select/13_Boom_Boom_Boom_Rare_Blend.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boom Boom Boom",
+      "artist": "Widespread Panic",
+      "has_synced": false,
+      "path": "select/14_Boom_Boom_Boom_Widespread_Panic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boom Boom Boom",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_Boom_Boom_Boom_Dannie_May.txt"
+    }
+  ]
+}
